@@ -28,3 +28,6 @@
 * 以上Serverless平台使用，还请阅读各自的官方文档。
 * 详细代码看 `entrypoint.py`，内含一些环境变量，看不懂不建议改动。
 * 更多问题可以查看主项目：[Pandora](https://github.com/pengzhile/pandora)
+
+## 获取Access Token
+官方登录，然后访问[这里](https://chat.openai.com/api/auth/session)拿 Access Token
